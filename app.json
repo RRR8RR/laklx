@@ -1,14 +1,14 @@
 {
 	"name": "رشق رنثون",
 	"description": "A TeleGramBot to send messages secretly!",
-	"logo": "https://telegra.ph/file/5116db79f852db113875c.jpg",
+	"logo": "https://graph.org/file/4edb726cd168c2f4e1654.jpg",
 	"keywords": [
 		"telegram",
 		"bot",
 		"python",
 		"telethon"
 	],
-	"repository": "https://github.com/Source-Ze/views",
+	"repository": "https://github.com/RRR8RR/laklx",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
